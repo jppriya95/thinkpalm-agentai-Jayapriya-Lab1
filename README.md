@@ -1,6 +1,6 @@
 # CBU TAAS ReAct Diagnostic Agent - Lab 1
 
-- **Name:** Lakshmi Narayanan S
+- **Name:** Jayapriya Subramanian
 - **Track:** Agentic AI
 - **Lab Name:** Lab 1 — ReAct Agent for QA Diagnostics
 
